@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\PSuP_Exercises_Week1.12\PSuP_Exercises_Week1.12\bin\Debug\PSuP_Exercises_Week1.12.exe.config
+C:\Users\User\source\repos\PSuP_Exercises_Week1.12\PSuP_Exercises_Week1.12\bin\Debug\PSuP_Exercises_Week1.12.exe
+C:\Users\User\source\repos\PSuP_Exercises_Week1.12\PSuP_Exercises_Week1.12\bin\Debug\PSuP_Exercises_Week1.12.pdb
+C:\Users\User\source\repos\PSuP_Exercises_Week1.12\PSuP_Exercises_Week1.12\obj\Debug\PSuP_Exercises_Week1.12.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PSuP_Exercises_Week1.12\PSuP_Exercises_Week1.12\obj\Debug\PSuP_Exercises_Week1.12.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PSuP_Exercises_Week1.12\PSuP_Exercises_Week1.12\obj\Debug\PSuP_Exercises_Week1.12.exe
+C:\Users\User\source\repos\PSuP_Exercises_Week1.12\PSuP_Exercises_Week1.12\obj\Debug\PSuP_Exercises_Week1.12.pdb
+C:\Users\User\source\repos\PSuP_Exercises_Week1.12\PSuP_Exercises_Week1.12\obj\Debug\PSuP_Exercises_Week1.12.exe.config
